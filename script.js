@@ -5,7 +5,6 @@ const listaCabezas = [
   "../cambio_personajes/assets/img/cabeza 5.jpg",
   "../cambio_personajes/assets/img/cabeza 6.jpg",
   "../cambio_personajes/assets/img/cabeza 7.jpg",
-  "../cambio_personajes/assets/img/cabeza 8.jpg",
   "../cambio_personajes/assets/img/cabeza 9.jpg",
   "../cambio_personajes/assets/img/cabeza 10.jpg",
   "../cambio_personajes/assets/img/cabeza 11.jpg",
@@ -18,7 +17,6 @@ const listaTroncos = [
   "../cambio_personajes/assets/img/cuerpo7.jpg",
   "../cambio_personajes/assets/img/cuerpo8.jpg",
   "../cambio_personajes/assets/img/cuerpo9.jpg",
-  "../cambio_personajes/assets/img/cuerpo10.jpg",
   "../cambio_personajes/assets/img/cuerpo11.jpg",
 ];
 const listaPatas = [
@@ -29,7 +27,6 @@ const listaPatas = [
   "../cambio_personajes/assets/img/patas7.jpg",
   "../cambio_personajes/assets/img/patas8.jpg",
   "../cambio_personajes/assets/img/patas9.jpg",
-  "../cambio_personajes/assets/img/patas10.jpg",
   "../cambio_personajes/assets/img/patas11.jpg",
 ];
 
