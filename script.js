@@ -1,14 +1,14 @@
 // Listas de imágenes
 const listaCabezas = [
   
-"../cambio_personajes/assets/img/cabeza 4.png",
-  "../cambio_personajes/assets/img/cabeza 5.png",
-  "../cambio_personajes/assets/img/cabeza 6.png",
-  "../cambio_personajes/assets/img/cabeza 7.png",
-  "../cambio_personajes/assets/img/cabeza 8.png",
-  "../cambio_personajes/assets/img/cabeza 9.png",
-  "../cambio_personajes/assets/img/cabeza 10.png",
-  "../cambio_personajes/assets/img/cabeza 11.png",
+"../cambio_personajes/assets/img/cabeza 4.jpg",
+  "../cambio_personajes/assets/img/cabeza 5.jpg",
+  "../cambio_personajes/assets/img/cabeza 6.jpg",
+  "../cambio_personajes/assets/img/cabeza 7.jpg",
+  "../cambio_personajes/assets/img/cabeza 8.jpg",
+  "../cambio_personajes/assets/img/cabeza 9.jpg",
+  "../cambio_personajes/assets/img/cabeza 10.jpg",
+  "../cambio_personajes/assets/img/cabeza 11.jpg",
 ];
 const listaTroncos = [
 
@@ -23,14 +23,14 @@ const listaTroncos = [
 ];
 const listaPatas = [
 
-  "../cambio_personajes/assets/img/patas4.png",
-  "../cambio_personajes/assets/img/patas5.png",
-  "../cambio_personajes/assets/img/patas6.png",
-  "../cambio_personajes/assets/img/patas7.png",
-  "../cambio_personajes/assets/img/patas8.png",
-  "../cambio_personajes/assets/img/patas9.png",
-  "../cambio_personajes/assets/img/patas10.png",
-  "../cambio_personajes/assets/img/patas11png",
+  "../cambio_personajes/assets/img/patas4.jpg",
+  "../cambio_personajes/assets/img/patas5.jpg",
+  "../cambio_personajes/assets/img/patas6.jpg",
+  "../cambio_personajes/assets/img/patas7.jpg",
+  "../cambio_personajes/assets/img/patas8.jpg",
+  "../cambio_personajes/assets/img/patas9.jpg",
+  "../cambio_personajes/assets/img/patas10.jpg",
+  "../cambio_personajes/assets/img/patas11.jpg",
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs
