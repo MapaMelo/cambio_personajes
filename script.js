@@ -1,18 +1,18 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../base-bestiario/assets/img/cabeza1.jpg",
-  "../base-bestiario/assets/img/cabeza2.jpg",
-  "../base-bestiario/assets/img/cabeza3.png",
+  "../cambio_personajes/assets/img/cabeza1.jpg",
+  "../cambio_personajes/assets/img/cabeza2.jpg",
+  "../cambio_personajes/assets/img/cabeza3.png",
 ];
 const listaTroncos = [
- "../base-bestiario/assets/img/tronco1.jpg",
-  "../base-bestiario/assets/img/tronco2.jpg",
-  "../base-bestiario/assets/img/tronco3.jpg",
+ "../cambio_personajes/assets/img/tronco1.jpg",
+  "../cambio_personajes/assets/img/tronco2.jpg",
+  "../cambio_personajes/assets/img/tronco3.jpg",
 ];
 const listaPatas = [
-  "../base-bestiario/assets/img/patas1.jpg",
-  "../base-bestiario/assets/img/patas2.jpg",
-  "../base-bestiario/assets/img/patas3.png",
+  "../cambio_personajes/assets/img/patas1.jpg",
+  "../cambio_personajes/assets/img/patas2.jpg",
+  "../cambio_personajes/assets/img/patas3.png",
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs
