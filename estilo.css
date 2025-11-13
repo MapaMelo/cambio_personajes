@@ -81,7 +81,7 @@ a, a:active, a:visited, a:hover {
 }
 #patas {
   display: block;
-  margin: 0 auto;
+  margin: 0em auto;
 }
 #recuadroMascota {
   position: absolute;
