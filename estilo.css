@@ -74,11 +74,11 @@ a, a:active, a:visited, a:hover {
   font-size: 1em;
 }
 #abajo {
-  position: relative;
   display: flex;            
   align-items: center;      
   justify-content: center;                 
   margin-top: 10px;
+  gap: 20px;
 }
 #patas {
   display: block;
@@ -87,14 +87,12 @@ a, a:active, a:visited, a:hover {
 #recuadroMascota {
   width: 120px;
   height: 160px;
-  background-color: rgba(192, 120, 199, 0);
-  border: 2px solid #000000;
   border-radius: 10px;
+  border: 2px;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: all 0.3s ease;
-  margin-left: 5cm;
 }
 #mascota {
    max-width: 100%;
