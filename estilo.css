@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Momo+Trust+Display&display=swap');
-</style>
+
 
 html {
   box-sizing: border-box;
@@ -35,16 +35,21 @@ a, a:active, a:visited, a:hover {
 
 #tituloPagina {
   margin-top: 1em;
-  margin-bottom: 0;
   margin-bottom: 0.5em;
-  font-family: "Barriecito", system-ui;
+  font-family: "Luckiest Guy", "Momo Trust Display", sans-serif;
   font-weight: 400;
   font-style: normal;
+  color: 
+  rgb(39, 153, 86);
+  text-shadow: 2px 2px 0px #0a5019;
+  transition: all 0.3s ease;
 }
 
+
 #tituloPagina:hover {
-  color: pink;
+  color: rgb(152, 139, 221);
   cursor: pointer;
+  font-size: 3em;
 }
 
 #contenedorPersonaje {
@@ -61,7 +66,33 @@ a, a:active, a:visited, a:hover {
 
 #boton {
   font-size: 0.9em;
-  background-color:  rgb(193, 120, 199);
+  background-color:  rgb(39, 153, 86);
   color: white;
   cursor: pointer;
+}
+#boton:hover {
+  font-size: 1em;
+}
+#abajo {
+  display: flex;            
+  align-items: center;      
+  justify-content: center;  
+  gap: 20px;                
+  margin-top: 10px;
+}
+#recuadroMascota {
+  width: 120px;
+  height: 160px;
+  background-color: rgb(193, 120, 199);
+  border: 2px solid #0a5019;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+#mascota {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
 }
