@@ -87,17 +87,18 @@ a, a:active, a:visited, a:hover {
 #recuadroMascota {
   width: 120px;
   height: 160px;
-  position: absolute;
-  left: calc(50% + 5cm);
+  background-color: rgba(192, 120, 199, 0);
+  border: 2px solid #000000;
   border-radius: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: all 0.3s ease;
-  margin: auto 1em;
+  margin-left: 5cm;
 }
 #mascota {
-  width: 100%;
-  height: auto;
+   max-width: 100%;
+  max-height: 100%;
+  object-fit: contain; 
   border-radius: 8px;
 }
