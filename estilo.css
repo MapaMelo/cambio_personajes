@@ -74,25 +74,27 @@ a, a:active, a:visited, a:hover {
   font-size: 1em;
 }
 #abajo {
+  position; relative;
   display: flex;            
   align-items: center;      
   justify-content: center;                 
   margin-top: 10px;
-  gap: 20px;
 }
 #patas {
   display: block;
   margin: 0 auto;
 }
 #recuadroMascota {
+  position: absolute;
+  top: 50%; 
+  left: 65%; 
+  transform: translateY(-50%); 
   width: 120px;
   height: 160px;
   border-radius: 10px;
-  border: 2px;
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: all 0.3s ease;
 }
 #mascota {
    max-width: 100%;
