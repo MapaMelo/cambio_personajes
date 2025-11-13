@@ -78,7 +78,6 @@ a, a:active, a:visited, a:hover {
   display: flex;            
   align-items: center;      
   justify-content: center;                 
-  margin-top: 10px;
 }
 #patas {
   display: block;
